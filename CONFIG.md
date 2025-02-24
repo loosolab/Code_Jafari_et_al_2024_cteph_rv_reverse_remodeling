@@ -24,6 +24,11 @@ Pat45.BL_1	Pat45.BL_1_R1.fastq
 Pat11.BL_1	Pat11.BL_1_R1.fastq
 Pat51.BL_1	Pat51.BL_1_R1.fastq
 Pat80.BL_1	Pat80.BL_1_R1.fastq
+Pat69.BL_1	Pat69.BL_1_R1.fastq
+Pat98.BL_1	Pat98.BL_1_R1.fastq
+Pat9.BL_1	Pat9.BL_1_R1.fastq
+Pat56.BL_1	Pat56.BL_1_R1.fastq
+Pat15.BL_1	Pat15.BL_1_R1.fastq
 ```
 
 ### Samples: RNA-Seq 2
@@ -137,4 +142,30 @@ Pat-65-FU_1	Pat-65-FU_1_R1.fastq
 Pat-72-FU_1	Pat-72-FU_1_R1.fastq
 Pat-75-FU_1	Pat-75-FU_1_R1.fastq
 Pat-91-FU_1	Pat-91-FU_1_R1.fastq
+```
+
+### Samples: RNA-Seq 4
+
+```
+prefix	fastq1
+Pat11-RV_1	Pat11-RV_1_R1.fastq.gz
+Pat12-RV_2	Pat12-RV_2_R1.fastq.gz
+Pat13-RV_3	Pat13-RV_3_R1.fastq.gz
+Pat16-RV_4	Pat16-RV_4_R1.fastq.gz
+Pat18-RV_5	Pat18-RV_5_R1.fastq.gz
+Pat20-RV_6	Pat20-RV_6_R1.fastq.gz
+Pat21-RV_7	Pat21-RV_7_R1.fastq.gz
+Pat22-RV_8	Pat22-RV_8_R1.fastq.gz
+Pat3-RV_9	Pat3-RV_9_R1.fastq.gz
+Pat5-RV_10	Pat5-RV_10_R1.fastq.gz
+Pat11-IVS_1	Pat11-IVS_1_R1.fastq.gz
+Pat12-IVS_12	Pat12-IVS_12_R1.fastq.gz
+Pat13-IVS_13	Pat13-IVS_13_R1.fastq.gz
+Pat16-IVS_14	Pat16-IVS_14_R1.fastq.gz
+Pat18-IVS_15	Pat18-IVS_15_R1.fastq.gz
+Pat20-IVS_16	Pat20-IVS_16_R1.fastq.gz
+Pat21-IVS_17	Pat21-IVS_17_R1.fastq.gz
+Pat22-IVS_18	Pat22-IVS_18_R1.fastq.gz
+Pat3-IVS_19	Pat3-IVS_19_R1.fastq.gz
+Pat5-IVS_20	Pat5-IVS_20_R1.fastq.gz
 ```
